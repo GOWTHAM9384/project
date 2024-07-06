@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1:hover{
+    color: yellow;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    margin-left: 20px;
+    color: gray;
+    cursor:pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 15px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.search{
+    padding: 50px;
+    text-align: center;
+}
+.box
+{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding: auto;
+    cursor: pointer;
+}
+box,img{
+    width: 210px;
+    height: 210px;
+}
+.product{
+    text-align: center;
+}
+.box1{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    cursor: pointer;
+}
+.box2{
+
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px; 
+    cursor: pointer;
+}
+.box:hover{
+    background-color: black;
+    color: white;   
+}
+.box1:hover{
+    background-color: black;
+    color: white;   
+}
+.box2:hover{
+    background-color: black;
+    color: white;   
+}
+.about{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.contect{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
